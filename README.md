@@ -3,5 +3,5 @@
 
 ---
 
-基于[LabAPI](https://github.com/northwood-studios/LabAPI)
+基于[LabAPI](https://github.com/northwood-studios/LabAPI)  
 使用时放入%appdata%\SCP Secret Laboratory\LabAPI\plugins
